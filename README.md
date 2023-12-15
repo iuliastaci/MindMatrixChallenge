@@ -1,1 +1,1 @@
-# MindMatrixChallenge
+# Mind Matrix Challenge
