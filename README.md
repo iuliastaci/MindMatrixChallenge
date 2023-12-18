@@ -3,8 +3,8 @@
 This repository contains MindMatrix Challenge, a project for the 3rd-year "Introduction to Robotics" course taken at the Faculty of Mathematics and Computer Science, University of Bucharest.
 
 ## 🕹️Game Information and Rules 🕹️
-The MindMatrix Challenge is guess what? ...a memory game where you can test your brain and attention. It consists of 3 levels with progressing difficulty. At each level, some LEDs are turned on to form a random pattern that will be displayed for a couple of seconds. Then, there's an LED blinking ... that's the player. It can be moved on the matrix using the joystick. When clicking the switch button, the LED at the player's position is turned on or off, depending on its previous state. 
-🏆To win the game, you should represent the correct pattern at each level. 
+The MindMatrix Challenge is guess what? ...a memory game where you can test your brain and attention. It consists of 3 levels with progressing difficulty. At each level, some LEDs are turned on to form a random pattern that will be displayed for a couple of seconds. Then, there's an LED blinking ... that's the player. It can be moved on the matrix using the joystick. When clicking the switch button, the LED at the player's position is turned on or off, depending on its previous state.  
+🏆To win the game, you should represent the correct pattern at each level.  
 ❌If an LED that is not in the pattern is turned on, the game is over.
 
 ## 📜Menu Structure📜
@@ -31,4 +31,4 @@ The setup for this project involves the use of specific electronic components, i
 6. _104pF Ceramic Capacitor_: It is a small electronic component with a capacitance of 104 picofarads. This capacitor is of the ceramic type and is marked with the code "104" to indicate its capacitance value. It plays a crucial role in fine-tuning resonant frequencies and ensuring signal integrity in various electronic devices and applications.
 7. _Resistors and wires_: These components are used to connect the matrix, LCD, joystick, and the driver to the Arduino. I have used a 100-Ohm resistor for the buzzer, a 10k-Ohm resistor for the MAX7219 driver, and a 220-Ohm resistor for the LCD.
 
-Below is a picture of the setup:
+## 📸Picture of the setup📸
