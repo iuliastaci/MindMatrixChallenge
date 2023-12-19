@@ -32,3 +32,4 @@ The setup for this project involves the use of specific electronic components, i
 7. _Resistors and wires_: These components are used to connect the matrix, LCD, joystick, and the driver to the Arduino. I have used a 100-Ohm resistor for the buzzer, a 10k-Ohm resistor for the MAX7219 driver, and a 220-Ohm resistor for the LCD.
 
 ## 📸Picture of the setup📸
+![matrix_project](https://github.com/iuliastaci/MindMatrixChallenge/assets/103101598/f00eed50-72e1-47c2-8aa1-5362416cd0af)
