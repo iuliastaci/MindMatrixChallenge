@@ -33,3 +33,6 @@ The setup for this project involves the use of specific electronic components, i
 
 ## 📸Picture of the setup📸
 ![matrix_project](https://github.com/iuliastaci/MindMatrixChallenge/assets/103101598/f00eed50-72e1-47c2-8aa1-5362416cd0af)
+
+## 📽️Demo video📽️
+If you want to view a demo of the game, go to [YouTube](https://youtu.be/09YuoInK0_Q).
